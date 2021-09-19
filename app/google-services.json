@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "781789733191",
+    "project_id": "ekart-d56e9",
+    "storage_bucket": "ekart-d56e9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:781789733191:android:5e0548bc8f10d9c571ac62",
+        "android_client_info": {
+          "package_name": "com.rabin.shopping"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "781789733191-f1baefukrik92mriobu864kf3a2b7f29.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2-xHINbNyqVvOtp07b1aUhhHcbCVDEas"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "781789733191-f1baefukrik92mriobu864kf3a2b7f29.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
